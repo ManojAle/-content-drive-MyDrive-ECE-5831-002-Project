@@ -89,7 +89,7 @@ TensorFlow **1.9.1** is required specifically for the fourth model.
 ```
 .
 ├── README.md
-├── Image_Captioning_ResNet.ipynb            # Notebook 1: ResNet + Transformer (PyTorch)
+├── Image_Captioning_Transformers_pytorch.ipynb            # Notebook 1: ResNet + Transformer (PyTorch)
 ├── image-captioning_LSTM.ipynb              # Notebook 2: CNN + LSTM (PyTorch)
 ├── image_captioning_using_attention.ipynb   # Notebook 3: Attention-Based CNN-LSTM (PyTorch)
 ├── Image_Captioning_using_Transformers_TF.ipynb  # Notebook 4: Transformer-based model (TF 1.9.1)
